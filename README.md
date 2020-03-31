@@ -1,7 +1,5 @@
 ### GeoPlaces
 
-Mapping schools and business places for potential damage if an earthquake occurs. This project is used as a college assignment. Built using Adonisjs framework.
-
 ### Setup Project
 
 1. Copy `.env.example` to `.env` and configure your database.
